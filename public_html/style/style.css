@@ -37,7 +37,6 @@ body{
 }
 #reklama{
  float: left;
-	@@ -41,27 +39,117 @@ body{
  width: 263px;
  height: 67px;
  background-image: url(../images/reklama_top.jpg);
